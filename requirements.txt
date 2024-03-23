@@ -1,0 +1,9 @@
+steamlit
+opencv-python-headless
+textblob
+scipy
+numpy
+pytesseract
+nltk
+pandas
+scikit-learn
